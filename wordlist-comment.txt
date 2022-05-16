@@ -1,4 +1,4 @@
-List kata-kata yang tidak boleh dipergunakan (banned words) di komentar
+// Daftar keywords untuk komentar //
 
 4no
 b3nc0ng
