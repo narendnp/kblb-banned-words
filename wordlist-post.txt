@@ -1,4 +1,4 @@
-List kata yang tidak boleh dipergunakan (banned) untuk postingan di grup KBLB
+// Daftar keywords untuk postingan //
 
 anjing
 babi
