@@ -22,7 +22,7 @@ Catatan: Tidak semua kata yang ada dalam daftar ini dikategorikan melanggar stan
 
 ## Bagaimana cara berkontribusi?
 
-Jika terdapat kata yang menurut kalian cocok untuk dimasukkan kedalam daftar diatas, silakan lakukan *commit* di salah satu maupun kedua file diatas. 
+Jika terdapat kata yang menurut kalian cocok untuk dimasukkan kedalam daftar diatas, silakan lakukan *pull request* di salah satu maupun kedua file diatas. 
 Pastikan bahwa kata yang ditambahkan diletakkan sesuai dengan urutan hurufnya.
 
 ## Bolehkah saya gunakan daftar ini untuk grup milik saya?
