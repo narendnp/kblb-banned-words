@@ -1,5 +1,6 @@
 // Daftar keywords untuk postingan //
 
+adu
 anjing
 babi
 bacok
