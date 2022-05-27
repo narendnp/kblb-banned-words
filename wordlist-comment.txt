@@ -35,7 +35,6 @@ cp
 daget
 DANA Kaget
 entot
-h0d3
 gai
 g3y
 g4y
@@ -45,6 +44,7 @@ gey
 goblok
 gorok
 h0de
+h0d3
 h1tl3r
 h1tler
 hitl3r
@@ -115,6 +115,7 @@ pedo
 peju
 pepeck
 pepek
+pinjol
 pntek
 pukul
 ShopeePay THR
