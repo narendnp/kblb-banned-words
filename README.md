@@ -1,6 +1,6 @@
 # kblb-banned-words
 
-Repositori ini ditujukan untuk mengarsip sekaligus sebagai media untuk melihat daftar kata-kata yang dilarang digunakan di grup Facebook [Keluh Basah Lele Berulah](https://www.facebook.com/groups/kblbv3/).
+Repositori ini ditujukan untuk mengarsip sekaligus sebagai media untuk melihat daftar kata-kata yang dilarang digunakan di grup Facebook [Keluh Basah Lele Berulah](https://www.facebook.com/groups/kblbv1/).
 
 ## Kenapa dilarang digunakan?
 
@@ -20,11 +20,11 @@ Catatan: Tidak semua kata yang ada dalam daftar ini dikategorikan melanggar stan
 - File [wordlist-post.txt](https://github.com/narendnp/kblb-banned-words/blob/main/wordlist-post.txt) digunakan untuk melihat daftar kata yang tidak boleh dipergunakan dalam postingan.
 - File [wordlist-comment.txt](https://github.com/narendnp/kblb-banned-words/blob/main/wordlist-comment.txt) digunakan untuk melihat daftar kata yang tidak boleh dipergunakan dalam komentar.
 
-## Bagaimana cara berkontribusi?
+## Bagaimana cara saya berkontribusi?
 
 Jika terdapat kata yang menurut kalian cocok untuk dimasukkan kedalam daftar diatas, silakan lakukan *pull request* di salah satu maupun kedua file diatas. 
 Pastikan bahwa kata yang ditambahkan diletakkan sesuai dengan urutan hurufnya.
 
 ## Bolehkah saya gunakan daftar ini untuk grup milik saya?
 
-Boleh banget😁 Silakan *edit* sesuai keperluan.
+Boleh banget😁
