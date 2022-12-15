@@ -35,6 +35,8 @@ cp
 daget
 DANA Kaget
 dongeng
+dong3ng
+d0ng3ng
 entot
 gai
 g3y
@@ -119,6 +121,7 @@ peju
 pepeck
 pepek
 pinjol
+pmo
 pntek
 pukul
 ShopeePay THR
