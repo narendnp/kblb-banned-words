@@ -1,8 +1,6 @@
 // Daftar keywords untuk komentar //
 
 4no
-DANA Kaget
-ShopeePay THR
 b3nc0ng
 b4c0k
 b4cok
@@ -41,6 +39,7 @@ d0ng3n9
 d0ng3ng
 d0ngeng
 daget
+DANA Kaget
 dong3ng
 dongeng
 entot
@@ -133,6 +132,7 @@ pepeck
 pepek
 pmo
 pukul
+ShopeePay THR
 sperma
 suicide
 tabok
