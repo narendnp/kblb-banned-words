@@ -10,6 +10,7 @@ Restriction yang diberikan pada akun pelanggar berupa *temporary account suspend
 
 Untuk pelanggaran standar komunitas yang terjadi dalam suatu grup, akan ada tambahan *restriction* yang diberikan pada grup tersebut ketika jumlah pelanggarannya sudah dikategorikan *banyak* oleh Facebook. 
 *Restriction* tersebut berupa dimasukkannya grup kedalam pengawasan Facebook yang mengakibatkan *post approval* harus dinyalakan, sehingga Admin/Moderator grup harus menyetujui secara manual postingan yang masuk.
+**Jika terlalu banyak pelanggaran standar komunitas yang dilakukan oleh moderator/admin grup dalam kurun waktu singkat, Facebook akan men-*disable*/menutup grup tersebut.** Dalam pemantauan saya, setiap *strike* pelanggaran (yang akan terlihat di bagian *Group Quality*), akan tersimpan selama ~3 bulan, dan grup akan ter-*disable* apabila lebih dari 5 *strike* pelanggaran telah terjadi dalam kurun waktu tersebut.
 
 Maka dari itu, grup ini menggunakan fitur *filter keywords* pada *Admin Assist* didalam pengaturan grup sehingga dapat meminimalisir terjadinya pelanggaran standar komunitas via teks.
 
