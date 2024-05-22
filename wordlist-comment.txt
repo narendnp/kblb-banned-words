@@ -15,6 +15,7 @@ Ganjar
 Gblk
 Gblok
 ISRAEL
+Indog
 Israel
 Jav
 Jawir
@@ -50,6 +51,7 @@ asw
 aut1s
 autis
 b e g o
+b'day
 b*kep
 b00l
 b0do
@@ -108,8 +110,10 @@ basa kentut
 bcd
 bcot
 bct
+bday
 beg0
 bego
+benchong
 bencong
 berem
 bereum
@@ -318,6 +322,8 @@ jembud
 jembut
 jembutt
 jing
+jmbut
+jogetin aja
 jokowi
 jom0k
 jomok
@@ -452,6 +458,7 @@ ngoc0k
 ngocog
 ngocok
 ngocox
+ngondek
 ngontol
 ngtd
 ngtod
@@ -516,6 +523,7 @@ peod
 pepeck
 pepek
 petjuh
+pibesday
 pinjam saldo
 pinjem 100
 pinjem saldo
@@ -560,6 +568,7 @@ sipaling
 sirkel
 snack video
 snackvideo
+sok inggris
 sperma
 spong
 sponge
@@ -604,6 +613,7 @@ tololl
 tonjok
 tt lite
 turuk
+umrik
 vokep
 vvir
 w!r
