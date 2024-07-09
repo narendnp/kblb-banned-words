@@ -20,6 +20,7 @@ Liquid
 ML
 NNN
 Ngerokok
+Pegi
 Rokok
 Saran nama
 ShopeePay THR
@@ -233,11 +234,15 @@ k3nthu
 k3ntu
 k4njud
 k4njut
+kalian belom tidur
+kalian belum tidur
+kalian blm tidur
 kalian ngapain
 kalian udah pada tidur
 kalian udh pd tidur
 kanjud
 kanjut
+kata kata hari ini
 kegiatannya ngapain
 ken2
 kenapa belum tidur
@@ -246,7 +251,7 @@ kenthu
 kentod
 kentot
 kentu
-khodam
+kiamat
 kimak
 kirik
 knp belom tidur
@@ -257,7 +262,6 @@ ko belum tidur
 ko blm tidur
 ko ilang
 kocak
-kodam
 kok belum tidur
 kok blm tidur
 konoha
@@ -362,13 +366,12 @@ pada belum tidur ngapain
 pantat
 pantek
 pap
-pasti pink
-pasti pink😋
 pd belum tidur ngapain
 pdkt
 pecun
 pedo
 pedofil
+pegi
 peju
 pejuh
 pel3r
